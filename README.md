@@ -1,6 +1,6 @@
 # To-Do List
 
-This app was made for learning purposes. The technologies learned were Flutter/Dart, as listed in the [Tech Stack](#Tech-Stack).
+It's a simple to-do list app. This app was made for learning purposes. The technologies learned were Flutter/Dart, as listed in the [Tech Stack](#Tech-Stack).
 ## Demo
 
 <p align="center">
