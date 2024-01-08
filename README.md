@@ -15,6 +15,8 @@ This app was made for learning purposes. The technologies being learned were Flu
 
 ![Static Badge](https://img.shields.io/badge/Android%20Studio-a?style=for-the-badge&logo=androidstudio&logoColor=%233DDC84&labelColor=%23212121&color=%233DDC84)
 
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-d?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23212121&color=%23007ACC)
+
 ## Acknowledgements
 
  - [Mitch Koko - Full Flutter Beginner Course](https://www.youtube.com/watch?v=HQ_ytw58tC4)
