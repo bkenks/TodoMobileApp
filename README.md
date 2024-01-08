@@ -17,6 +17,10 @@ This app was made for learning purposes. The technologies being learned were Flu
 
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-d?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23212121&color=%23007ACC)
 
+## Authors
+
+- [Brian Kenkel - @bkenks](https://github.com/bkenks)
+
 ## Acknowledgements
 
  - [Mitch Koko - Full Flutter Beginner Course](https://www.youtube.com/watch?v=HQ_ytw58tC4)
