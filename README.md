@@ -1,6 +1,6 @@
 # To-Do List
 
-This app was made for learning purposes. The technologies being learned were Flutter/Dart as listed in the [Tech Stack](##Tech-Stack).
+This app was made for learning purposes. The technologies being learned were Flutter/Dart as listed in the [Tech Stack](#Tech-Stack).
 ## Demo
 
 <p align="center">
@@ -24,7 +24,7 @@ This app was made for learning purposes. The technologies being learned were Flu
 
 #### Is this a good beginner app to create?
 
-Yes, I would highly recommend building an app like this to learn fundamentals of a new technology like Flutter/Dart. The video provided in [Acknowledgements](##Acknowledgments) was very helpful to learning the basics. Although, you do need an understanding of core coding principles to learn Dart/Flutter.
+Yes, I would highly recommend building an app like this to learn fundamentals of a new technology like Flutter/Dart. The video provided in [Acknowledgements](#Acknowledgments) was very helpful to learning the basics. Although, you do need an understanding of core coding principles to learn Dart/Flutter.
 
 #### How long did it take to build?
 
