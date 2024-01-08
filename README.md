@@ -3,7 +3,7 @@
 This app was made for learning purposes. The technologies being learned were Flutter/Dart as listed in the [Tech Stack](##Tech-Stack).
 ## Demo
 
-![](https://github.com/bkenks/TodoMobileApp/blob/main/images/To-Do%20List%20Demo.gif)
+![](https://github.com/bkenks/TodoMobileApp/blob/main/images/To-Do%20List%20Demo.gif | width=300)
 
 
 ## Tech Stack
