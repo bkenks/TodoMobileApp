@@ -4,6 +4,7 @@ This app was made for learning purposes. The technologies being learned were Flu
 ## Demo
 
 ![](https://github.com/bkenks/TodoMobileApp/blob/main/images/To-Do%20List%20Demo.gif | width=300)
+<img src="https://github.com/bkenks/TodoMobileApp/blob/main/images/To-Do%20List%20Demo.gif" width="50%" height="50%"/>
 
 
 ## Tech Stack
