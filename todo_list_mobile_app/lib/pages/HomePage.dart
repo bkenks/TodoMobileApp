@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
         });
   }
 
-  //delete task hello there
+  //delete task
   void deleteTask(int index) {
     setState(() {
       db.todoList.removeAt(index);
